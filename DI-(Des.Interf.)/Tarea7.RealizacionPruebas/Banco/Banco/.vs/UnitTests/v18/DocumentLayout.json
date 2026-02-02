@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vespertino\\Downloads\\Banco\\Banco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8195DFA3-D465-4424-9973-19A5920CCA0F}|..\\UnitTestBanco\\UnitTestBanco.csproj|c:\\users\\vespertino\\downloads\\banco\\unittestbanco\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B689BE-D3C0-4BCD-870A-285EC05019EC}|Banco.csproj|c:\\users\\vespertino\\downloads\\banco\\banco\\cuentaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B689BE-D3C0-4BCD-870A-285EC05019EC}|Banco.csproj|solutionrelative:cuentaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B689BE-D3C0-4BCD-870A-285EC05019EC}|Banco.csproj|c:\\users\\vespertino\\downloads\\banco\\banco\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B689BE-D3C0-4BCD-870A-285EC05019EC}|Banco.csproj|solutionrelative:cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B689BE-D3C0-4BCD-870A-285EC05019EC}|Banco.csproj|c:\\users\\vespertino\\downloads\\banco\\banco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B689BE-D3C0-4BCD-870A-285EC05019EC}|Banco.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\vespertino\\Downloads\\Banco\\UnitTestBanco\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\UnitTestBanco\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\vespertino\\Downloads\\Banco\\UnitTestBanco\\UnitTest1.cs",
+              "RelativeToolTip": "..\\UnitTestBanco\\UnitTest1.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAcwEsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T18:21:24.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vespertino\\Downloads\\Banco\\Banco\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vespertino\\Downloads\\Banco\\Banco\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T18:15:47.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CuentaService.cs",
+              "DocumentMoniker": "C:\\Users\\vespertino\\Downloads\\Banco\\Banco\\CuentaService.cs",
+              "RelativeDocumentMoniker": "CuentaService.cs",
+              "ToolTip": "C:\\Users\\vespertino\\Downloads\\Banco\\Banco\\CuentaService.cs",
+              "RelativeToolTip": "CuentaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T18:15:46.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\vespertino\\Downloads\\Banco\\Banco\\Cuenta.cs",
+              "RelativeDocumentMoniker": "Cuenta.cs",
+              "ToolTip": "C:\\Users\\vespertino\\Downloads\\Banco\\Banco\\Cuenta.cs",
+              "RelativeToolTip": "Cuenta.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T18:15:44.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
